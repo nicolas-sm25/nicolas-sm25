@@ -9,11 +9,11 @@
 </p>
 
 <h2> About Me 😃 </h2>
-I'm a Systems Engineering student from Bogotá, Colombia.  <br>
+I'm a 4th-semester Systems Engineering student from Bogotá, Colombia.  <br>
 I'm currently studying at Universidad Distrital F.J.C.  <br>
-I enjoy solving problems and I'm focused in my career every day.  
+I enjoy programming, solving problems, and learning something new every day.  
 
-Outside of tech, you'll probably find me at the gym, playing football, listening to music, or playing video games.  
+Outside of tech, you'll probably find me at the gym, playing football, listening to music, or playing video games.
 
 > <em> "Discipline beats motivation. Every time." </em>
 
@@ -42,25 +42,32 @@ Outside of tech, you'll probably find me at the gym, playing football, listening
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <p align="left">
   🚀 Continuously learning and improving
 </p>
 
+<h2>🚀 Projects</h2>
+
+<ul>
+  <li>
+    <strong>Java + SQL Database Project</strong> — Desktop application developed with Java, JDBC, DAO, and SQL for database management.
+  </li>
+  <li>
+    <strong>University Projects</strong> — Academic projects covering object-oriented programming, databases, algorithms, software development practices, and Git/GitHub collaboration.
+  </li>
+</ul>
+
 <h2>📚 Currently Learning</h2>
 
 <ul>
-  <li>Object-oriented programming in Java</li>
-  <li>Applying mathematical thinking to problem solving</li>
-  <li>Improving logic and coding fundamentals</li>
+  <li>Advanced Programming and software development practices</li>
+  <li>Computer Science fundamentals</li>
+  <li>Exploring cybersecurity, hacking, and vulnerabilities</li>
 </ul>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolas-sm25&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <br>
-  <!-- <img src="https://streak-stats.demolab.com?user=nicolas-sm25&theme=tokyonight"/> -->
-</p>
