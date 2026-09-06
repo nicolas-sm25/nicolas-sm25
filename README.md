@@ -68,6 +68,7 @@ Outside of tech, you'll probably find me at the gym, playing football, listening
 <ul>
   <li>Advanced Programming and software development practices</li>
   <li>Computer Science fundamentals</li>
+  <li>Introduction to Data Science</li>
   <li>Exploring cybersecurity, hacking, and vulnerabilities</li>
 </ul>
 
